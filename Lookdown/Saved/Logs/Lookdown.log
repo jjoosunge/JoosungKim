@@ -667,3 +667,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.01-04.49.22:255][160]LogSavePackage: Moving '../../../../../../Unreal_Proejct/JoosungKim/Lookdown/Saved/BP_TaeryongActorCCB114254F34CCDDCDD584AC2F9377F0.tmp' to '../../../../../../Unreal_Proejct/JoosungKim/Lookdown/Content/TaeryongLee/BP_TaeryongActor.uasset'
 [2021.06.01-04.49.22:275][160]AssetCheck: New page: 애셋 저장: BP_TaeryongActor
 [2021.06.01-04.49.22:275][160]LogContentValidation: Display: Blueprint /Game/TaeryongLee/BP_TaeryongActor.BP_TaeryongActor 유효성 검사
+[2021.06.01-05.01.19:764][815]LogSlate: Window '부모 클래스 선택' being destroyed
+[2021.06.01-05.01.28:055][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TaeryongLee/BP_TaeryongActor_3.BP_TaeryongActor_3
+[2021.06.01-05.01.41:938][ 73]BlueprintLog: New page: BP_TaeryongActor_3 컴파일
+[2021.06.01-05.01.41:982][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.01-05.01.42:616][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TaeryongLee/BP_TaeryongActor_3" FILE="../../../../../../Unreal_Proejct/JoosungKim/Lookdown/Content/TaeryongLee/BP_TaeryongActor_3.uasset" SILENT=true
+[2021.06.01-05.01.42:634][107]LogSavePackage: Moving '../../../../../../Unreal_Proejct/JoosungKim/Lookdown/Saved/BP_TaeryongActor_328A003804959AE592EA3C9B41061A02A.tmp' to '../../../../../../Unreal_Proejct/JoosungKim/Lookdown/Content/TaeryongLee/BP_TaeryongActor_3.uasset'
+[2021.06.01-05.01.42:647][107]AssetCheck: New page: 애셋 저장: BP_TaeryongActor_3
+[2021.06.01-05.01.42:647][107]LogContentValidation: Display: Blueprint /Game/TaeryongLee/BP_TaeryongActor_3.BP_TaeryongActor_3 유효성 검사
